@@ -1,0 +1,84 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-color: rgb(14, 124, 234);
+}
+.main {
+  border: 3px solid white;
+}
+h1 {
+  background-color: white;
+  color: rgb(14, 124, 234);
+  text-align: center;
+  width: 215px;
+  margin-top: 20px;
+  width: 100;
+  margin-left: 40%;
+}
+#para1 {
+  font-size: 20px;
+  background-color: white;
+  color: rgb(14, 124, 234);
+  width: 105px;
+  font-weight: bold;
+  padding: 5px;
+  margin-left: 25%;
+  margin-top: 20px;
+}
+form {
+  margin-left: 25%;
+  margin-top: 20px;
+  line-height: 35px;
+  color: white;
+}
+#name {
+  width: 105px;
+  padding: 5px;
+}
+fieldset {
+  width: 80px;
+  background-color: white;
+  color: rgb(14, 124, 234);
+  margin-bottom: 15px;
+  margin-top: 10px;
+}
+legend {
+  color: white;
+}
+#para2 {
+  font-size: 20px;
+  background-color: white;
+  color: rgb(14, 124, 234);
+  width: 140px;
+  font-weight: bold;
+  padding: 5px;
+  margin-left: 25%;
+  margin-top: 20px;
+}
+#pin {
+  width: 60px;
+}
+#cvv {
+  width: 40px;
+}
+#pay {
+  margin-right: 30px;
+}
+button {
+  color: rgb(14, 124, 234);
+  background-color: white;
+  font-weight: bold;
+  padding: 3px;
+  border: 0px;
+  border-radius: 15px;
+}
+button:hover {
+  color: rgb(14, 124, 234);
+  background-color: white;
+  font-weight: bold;
+  padding: 3px;
+  border: 0px;
+  font-size: 20px;
+}
